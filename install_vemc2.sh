@@ -6,3 +6,4 @@ git clone https://github.com/ClundXIII/vemc2.git
 
 cd vemc2
 make init-cmake
+cd ..
